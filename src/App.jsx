@@ -1,7 +1,9 @@
+import Product from "./components/Product";
 const App = () => {
   return (
     <>
-      <h1>Product List</h1>
+      <h1>Home Page</h1>
+      <Product />
     </>
   );
 };
